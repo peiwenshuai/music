@@ -1,10 +1,10 @@
 # music
 
- <h1>阿帅的音乐下载站</h1>
- </br>
-[图片](/music/biu.jpg)
+
+
+[图片](/music/blu.jpg)
 </br>
-[山丘-李宗盛](/music/shuaimusic/山丘—李宗盛.mp3)
+[山丘-李宗盛](/music/shuaimusic/山丘-李宗盛.mp3)
 </br>
  <a href="/music/shuaimusic/山丘-李宗盛.mp3" download="1.mp3">shanqiu<a>
 
